@@ -11,13 +11,13 @@
 
 ## 어떤 기술이 사용되었나요?
 
-##Front
+Front
 - Javascript
 - React
 - React Hooks
 - Socket.io
 
-##Back
+Back
 - Node.js
 - Express
 - Mysql
