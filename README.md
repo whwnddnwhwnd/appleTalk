@@ -1,5 +1,5 @@
 # appleTalk
-![] (https://github.com/whwnddnwhwnd/appleTalk/blob/main/wiki_images/appletalk.png)
+![](https://github.com/whwnddnwhwnd/appleTalk/blob/main/wiki_images/appletalk.png)
  
 
 ## About:
