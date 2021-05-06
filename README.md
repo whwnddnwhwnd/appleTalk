@@ -1,6 +1,6 @@
 # appleTalk
-![](https://github.com/whwnddnwhwnd/appleTalk/blob/main/wiki_images/appletalk.png
-
+![] (https://github.com/whwnddnwhwnd/appleTalk/blob/main/wiki_images/appletalk.png)
+ 
 
 ## About:
 더 이상 지겨운 노란색에서 벗어나 빨갛게 익은 1년 365일 무료로 이용 가능한 애플톡을 사용해 보세요!
